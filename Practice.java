@@ -4,6 +4,8 @@ class Simple{
     System.out.println("Hello Java");
      // print "welcome to Git" in the terminal window: 
      System.out.println("Welcome To gGit");
-     System.out.println("Welcome to New begin");
+   
+   System.out.println("Welcome to Harshavardhan reddy");
+  System.out.println("Welcome to New begin");
   }
 }
